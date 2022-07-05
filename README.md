@@ -13,3 +13,5 @@ versus your main Python distro.
 2. `virtualenv -p /your/personal/path/to/python3.9 devenv`
 3. `source devenv/bin/activate`
 4. Finally, `pip install -e .`
+
+Check out `mjauto --help`.
