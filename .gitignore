@@ -1,3 +1,6 @@
+# mjauto word bank
+banks/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
